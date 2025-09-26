@@ -1,5 +1,5 @@
-<img src='./images/e21-banner-transparent-white-full.png#gh-dark-mode-only' alt='edgekraft'/>
-<img src='./images/e21-banner-transparent-black-full.png#gh-light-mode-only' alt='edgekraft'/>
+<img src='./images/e21-logo-300dpi-REVERSE.png#gh-dark-mode-only' alt='e/21'/>
+<img src='./images/e21-logo-300dpi.png#gh-light-mode-only' alt='e/21'/>
 
 
 # Welcome to e21.ai
